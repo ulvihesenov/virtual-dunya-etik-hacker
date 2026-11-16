@@ -2,7 +2,7 @@
 
 ### Başlanğıc Səviyyə 1
 
-**Müəllif:** Ülvü Həsənov
+**Müəllif:** Ülvü Həsənov  
 **Brend:** Bir Az Techno
 
 ---
@@ -25,7 +25,10 @@ Its purpose is to introduce the fundamentals of the digital world, information s
 - **Səviyyə:** Başlanğıc
 - **Dil:** Azərbaycan dili
 - **Mövzu:** Kibertəhlükəsizlik və etik hakerlik
-- **Müəllif:** Ülvü Həsənov
+
+## Kitabı oxu
+
+[**Virtual Dünya – Etik Hacker (PDF)**](kitab/VİRTUAL%20DÜNYA%20-%20ETİK%20HACKER%20(başlanğıc%20səviyyə%201).pdf)
 
 ## Layihənin məqsədi
 
@@ -38,5 +41,3 @@ Azərbaycan dilində kibertəhlükəsizlik üzrə maarifləndirici materialları
 ---
 
 *Bu material maarifləndirmə və qanuni kibertəhlükəsizlik öyrənilməsi məqsədi daşıyır.*
-
-
